@@ -8,7 +8,6 @@ _En el paquete del repositorio se encuentra el listado de requisiciones HTTP usa
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [IntellJ] - IDE para JAVA
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
